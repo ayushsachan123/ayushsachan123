@@ -34,3 +34,4 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ayushsachan123&show_icons=true&locale=en" alt="ayushsachan123" /></p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsachan123&" alt="ayushsachan123" /></p>
+[![ayushsachan123's GitHub | Stats](https://stats.quine.sh/ayushsachan123/github?theme=light)](https://quine.sh)
